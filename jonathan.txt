@@ -1,2 +1,3 @@
-Este archivo es para un push 
-Alexander
+Este archivo es para un pull
+Jonathan
+
